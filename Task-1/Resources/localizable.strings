@@ -1,0 +1,22 @@
+/* 
+  localizable.strings
+  Task-1
+
+  Created by Dinesh on 31/07/2019.
+  Copyright © 2019 Dinesh. All rights reserved.
+*/
+
+// MARK: - Request Detail
+"Dispatched" = "Dispatched";
+"Arrived" = "Arrived";
+"Work in Progress" = "Work in Progress";
+"Completed" = "Completed";
+"Cancel Work" = "Cancel Work";
+"Close" = "Close";
+"Coming Soon" = "Coming Soon";
+
+// MARK: - Buttons
+"Okay" = "OK";
+
+// MARK: - Alert String
+"Call is not supported" = "Call is not supported";
